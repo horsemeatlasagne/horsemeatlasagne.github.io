@@ -1,5 +1,3 @@
-remote_theme: jekyll-theme-modernist
-plugins:
-- jekyll-remote-theme
+theme: jekyll-theme-modernist
 title: Horse's blog
 description: horse meat lover.
