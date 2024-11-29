@@ -1,4 +1,4 @@
-remote_theme: pages-themes/modernist
+remote_theme: jekyll-theme-modernist
 plugins:
 - jekyll-remote-theme
 title: Horse's blog
