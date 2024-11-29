@@ -1,5 +1,4 @@
 ---
-layout: post
 title: This is my first post of gh pages blog
 date: 2024-11-28
 ---
