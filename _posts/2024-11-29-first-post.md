@@ -1,6 +1,6 @@
 ---
-title: "This is my first post of gh pages blog"
-date: 2024-11-28
+title: "first post"
+date: 2024-11-29
 ---
 
 i'll register interesting themes about my life here. May be boring. Just Not an uploading place.
